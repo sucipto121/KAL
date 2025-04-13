@@ -6,3 +6,5 @@ root: intro
 chapters:
 - file: Sistem Persamaan Linier
 - file: Persamaan Sistem Linear
+- file: Persamaan 3 Variabel
+- file: TRANSFORMASI MATRIKS
