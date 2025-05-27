@@ -1,0 +1,9 @@
+format: jb-book
+root: intro
+chapters:
+  - file: markdown
+  - file: "Dot Product"
+  - file: markdown-notebooks
+  - file: "Persamaan Sistem Linear"
+  - file: "PERSAMAAN 3 VARIABEL"
+  - file: "Tugas transformasi refleksi matriks (2)"
